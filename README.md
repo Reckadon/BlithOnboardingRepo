@@ -1,6 +1,7 @@
 # BlithOnboardingRepo
-A place for resources
----
+
+## A place for resources
+
 - Dowload [git](https://git-scm.com/)
 - download github [desktop](https://desktop.github.com/download/)
 - git [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -8,7 +9,10 @@ A place for resources
 - flutter [dev](https://flutter.dev/learn) homepage
 - [codelab](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0) for 1st app
 - Dart docs - [introduction](https://dart.dev/language)
+
 ---
+
 ## Add your details below:
-**Akul Gupta**
+
+**Akul Gupta**  
 bhakti this is my first edit
