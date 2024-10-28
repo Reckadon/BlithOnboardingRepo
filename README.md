@@ -10,3 +10,4 @@ A place for resources
 - Dart docs - [introduction](https://dart.dev/language)
 ---
 ## Add your details below:
+**Akul Gupta**
